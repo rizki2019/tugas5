@@ -3,6 +3,8 @@
 1.Deklarasi dictionary data
 2.Input untuk pilih opsi
 3.Jika Input A
+* Lalu program akan meletakan data tersebut pada baris berdasarkan variabel "i", jika anda menginputkan dua buah nama maka akan tampil.
+     * 1 nama1 nim1
 	3.1 Input nama,nim,tugas,uts,uas
 	3.2 Nilai akhir perpaduan nilai tugas,uts,uas
 	3.3 Jika nilai nim,tugas,uts,uas, kosong/tidak di isi dengan angka maka ValueError dan meminta input ulang
