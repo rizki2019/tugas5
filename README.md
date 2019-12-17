@@ -1,3 +1,5 @@
+# <p align="center">.:Penjelasan Program 5:.</p>
+
 1.Deklarasi dictionary data
 2.Input untuk pilih opsi
 3.Jika Input A
