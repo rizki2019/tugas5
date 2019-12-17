@@ -3,10 +3,10 @@
 1.Deklarasi dictionary data
 2.Input untuk pilih opsi
 3.Jika Input A
-*3.1 Input nama,nim,tugas,uts,uas
-*3.2 Nilai akhir perpaduan nilai tugas,uts,uas
-*3.3 Jika nilai nim,tugas,uts,uas, kosong/tidak di isi dengan angka maka ValueError dan meminta input ulang
-*3.4 semua data akan di tambahkan menjadi value dan key menggunakan nama
+* 3.1 Input nama,nim,tugas,uts,uas
+* 3.2 Nilai akhir perpaduan nilai tugas,uts,uas
+* 3.3 Jika nilai nim,tugas,uts,uas, kosong/tidak di isi dengan angka maka ValueError dan meminta input ulang
+* 3.4 semua data akan di tambahkan menjadi value dan key menggunakan nama
      * 1 nama1 nim1
 
 	
