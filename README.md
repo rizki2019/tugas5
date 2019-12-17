@@ -44,5 +44,4 @@
 <p align="center">Flowchart</p>
 ![](Files/tugas5.jpg)
 
-<p align="center">Hasil Program</p>
-![](Files/ss.jpg)
+
