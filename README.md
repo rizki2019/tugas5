@@ -43,8 +43,8 @@
 
 <strong><p align="center">Flowchart</p></strong>
 
-<p align="center">![](Files/tugas5.jpg)</p>
+![](Files/tugas5.jpg)
 
 <strong><p align="center">Hasil Program</p></strong>
 
-<p align="center">![](Files/ss.jpg)</p>
+![](Files/ss.jpg)
