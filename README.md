@@ -2,7 +2,7 @@
 
 1.Deklarasi dictionary data<br>
 2.Input untuk pilih opsi <br>
-(A)dd       (E)dit      (D)elete     (S)earch      (L)ist     (Q)uit <br>
+<srong>(A)dd       (E)dit      (D)elete     (S)earch      (L)ist     (Q)uit</strong> <br>
 3.Jika Input A
 * 3.1 Input nama,nim,tugas,uts,uas
 * 3.2 Nilai akhir perpaduan nilai tugas,uts,uas
@@ -41,5 +41,5 @@
 9.Jika Input diluar, A,E,D,S,L,Q
 * 9.1 Pilih opsi yang tersedia
 
-Hasil Program
+<p align="center">Hasil Program</p>
 ![](Files/ss.jpg)
