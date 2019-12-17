@@ -2,7 +2,7 @@
 
 1.Deklarasi dictionary data<br>
 2.Input untuk pilih opsi <br>
-<strong>(A)dd       (E)dit      (D)elete     (S)earch      (L)ist     (Q)uit</strong> <br>
+<strong>(A)dd       (E)dit      (D)elete     (S)earch      (L)ist     (Q)uit</strong> <br><br>
 3.Jika Input A
 * 3.1 Input nama,nim,tugas,uts,uas
 * 3.2 Nilai akhir perpaduan nilai tugas,uts,uas
@@ -40,6 +40,7 @@
 
 9.Jika Input diluar, A,E,D,S,L,Q
 * 9.1 Pilih opsi yang tersedia
-
-<p align="center">Hasil Program</p>
+<p align="center">Flowchart</p><br>
+![](Files/tugas5.jpg)
+<p align="center">Hasil Program</p><br>
 ![](Files/ss.jpg)
