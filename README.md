@@ -40,7 +40,9 @@
 
 9.Jika Input diluar, A,E,D,S,L,Q
 * 9.1 Pilih opsi yang tersedia
-<p align="center">Flowchart</p><br>
+
+<p align="center">Flowchart</p>
 ![](Files/tugas5.jpg)
-<p align="center">Hasil Program</p><br>
+
+<p align="center">Hasil Program</p>
 ![](Files/ss.jpg)
