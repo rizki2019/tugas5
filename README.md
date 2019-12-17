@@ -1,7 +1,7 @@
 # <p align="center">.:Penjelasan Program 5:.</p>
 
-1.Deklarasi dictionary data
-2.Input untuk pilih opsi
+1.Deklarasi dictionary data<br>
+2.Input untuk pilih opsi<br>
 3.Jika Input A
 * 3.1 Input nama,nim,tugas,uts,uas
 * 3.2 Nilai akhir perpaduan nilai tugas,uts,uas
@@ -11,9 +11,9 @@
 
 	
 4.Jika Input E
-	4.1 Input nama/key yg di cari
-	4.2 Jika nama ada di data.keys
-		4.2.1 Input pembaruan data
+* 4.1 Input nama/key yg di cari
+* 4.2 Jika nama ada di data.keys
+	* 4.2.1 Input pembaruan data
 		4.2.2 Jika nilai nim,tugas,uts,uas, kosong/tidak di isi dengan angka maka ValueError dan meminta input ulang
 		4.2.3 Input akan menimpa data yang lama
 	4.3 Jika tidak
